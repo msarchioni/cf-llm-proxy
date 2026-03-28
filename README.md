@@ -51,8 +51,8 @@ Point OpenCode to the proxy in `opencode.json`:
         "baseURL": "http://127.0.0.1:8900/v1"
       },
       "models": {
-        "qwen3-coder-30b": {
-          "name": "Qwen3-Coder 30B"
+        "[model_ref]": {
+          "name": "[Model Name]"
         }
       }
     }
